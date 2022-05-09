@@ -1,2 +1,2 @@
 # MMD-Touch-System
-Let MMD models(PMX) to animate(VMD) and voice interact with body part touches
+Let MMD models animate and voice interact with body part touches. Support PMX models and VMD motion.
